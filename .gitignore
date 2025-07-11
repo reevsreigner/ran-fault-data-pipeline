@@ -1,0 +1,24 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+
+# Streamlit cache (optional but clean)
+.streamlit/
+
+# Database file (auto-generated)
+telecom_data.db
+
+# Raw simulation output (auto-generated)
+data/raw/
+
+# VSCode/editor settings (optional but good practice)
+.vscode/
+*.code-workspace
+
+# OS junk files
+.DS_Store
+Thumbs.db
